@@ -1,5 +1,6 @@
 ﻿string[] arraybase = new string[5] {"march", "7", "birthday", "38", "lol"};
 string[] array2 = new string[arraybase.Length];
+
 void ResultMassiv(string[] arraybase, string[] array2)
 {
     int count = 0;
